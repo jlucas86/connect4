@@ -5,7 +5,13 @@ This project aimes to create an ai agent to play connect4 using the minimax algo
 - Pyhton
 - PyGAD
 ## Usage
+''' 
+
+'''
 ## Future Updates
-Adding alphabeta pruning is the next goal with this project, beacuse it may eliminate the need for a complicated heuristic.
+- Training the AI agent more
+- Adding alphabeta pruning is the next goal with this project, beacuse it may eliminate the need for a complicated heuristic.
+## Notes
+- The AI at this stage does not win every time, but wins most times.
 ## contact
 Jlucas joshua.Lucas014@gmail.com
